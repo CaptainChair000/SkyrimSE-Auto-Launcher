@@ -1,5 +1,6 @@
 ﻿# SkyrimSE-Auto-Launcher
 The purpose of the program is to reopen the game when it crashes while grass caching.
+﻿# Usage
 Just copy somewhere and run
 - Choose SKSE location
 - Press Start
