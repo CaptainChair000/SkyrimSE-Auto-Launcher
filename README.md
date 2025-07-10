@@ -6,4 +6,4 @@ After making all the preparations for the grass cache
 - Choose SKSE location.
 - Press Start. <br>
 <p> The program will restart the game every time it crashes until you stop it. </p>
-
+This will work only on SkyrimSE.
